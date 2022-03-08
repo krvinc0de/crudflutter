@@ -1,6 +1,6 @@
 # crud_en_flutter
 
-A new Flutter project.
+crud sencillo de flutter con datos almacenados en mongo
 
 ## Getting Started
 
